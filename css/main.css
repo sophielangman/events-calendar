@@ -1,4 +1,4 @@
-body {
+html {
   font-family: Merriweather, serif;
 }
 
@@ -11,12 +11,8 @@ th {
   border: 1px solid #ccc;
 }
 
-p {
-  margin: 0;
-}
-
 .event {
-  border-radius: 8px
+  border-radius: 8px;
 }
 
 .green {
